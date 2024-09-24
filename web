@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Scriptedsilly's Webpage</title>
+    <style>
+        body {
+            background-color: #333333; /* Light black background */
+            color: #ffffff; /* White text */
+            font-family: 'Arial', sans-serif;
+        }
+        h1 {
+            color: #00bfff; /* Cyan accent for the heading */
+            text-align: center;
+            margin-top: 50px;
+        }
+        .bio, .links {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+            background-color: #1c1c1c; /* Darker background for sections */
+            border-radius: 10px;
+            box-shadow: 0 0 20px #00ffff; /* Cyan glow effect */
+        }
+        .links a {
+            color: #00ffff; /* Cyan links */
+            text-decoration: none;
+            font-size: 18px;
+        }
+        .links a:hover {
+            color: #00bfff; /* Lighter cyan on hover */
+        }
+        .container {
+            text-align: center;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Scriptedsilly's Webpage</h1>
+    
+    <div class="bio">
+        <h2>About Me</h2>
+        <p>Hi! I'm Animate_Demon, a YouTuber and 3D Roblox Animator. I create fun and engaging content related to animations in Roblox, and I'm passionate about bringing stories to life through 3D visuals.</p>
+    </div>
+
+    <div class="container">
+        <div class="links">
+            <h2>Connect with Me</h2>
+            <p><a href="https://www.youtube.com/@Demon19796" target="_blank">YouTube Channel</a></p>
+            <p><a href="https://discord.gg/YOUR_SERVER" target="_blank">Join My Discord Server</a></p>
+            <p><a href="https://roblox.com/YOUR_PROFILE" target="_blank">My Roblox Profile</a></p>
+            <p><a href="https://twitter.com/YOUR_PROFILE" target="_blank">Twitter</a></p>
+        </div>
+    </div>
+
+</body>
+</html>
